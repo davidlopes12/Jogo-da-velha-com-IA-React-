@@ -1,8 +1,2 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Este projeto consiste em um jogo da velha onde foi desenvolvida uma inteligência artificial capaz de calcular jogadas para vencer o jogador humano. A IA foi projetada de forma que seja extremamente difícil para o jogador vencer; caso não encontre uma oportunidade de vitória imediata, ela busca garantir um empate para evitar a vitoria do adversário.
